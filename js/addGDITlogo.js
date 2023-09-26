@@ -7,7 +7,7 @@ function attrGDIT(){
   var gdit= document.createElement('a');
   // gdit.innerHTML=' | <a href="gdit.com">GDIT</a>' ;
   gdit.text=' | GDIT'
-  gdit.href='https://gdit.com'
+  gdit.href='https://www.gdit.com/industries/health/'
   attrDiv.appendChild(gdit);
 // }
 }
